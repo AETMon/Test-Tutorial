@@ -7,6 +7,7 @@ void setup() {
     Serial.println("Maaga pa~");
     Serial.println("Sarap matulog!!!!!!!!");
     Serial.println("Nagugutom nako LOL");
+    Serial.println("git well");
 }
 
 void loop() {
